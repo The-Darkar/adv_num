@@ -6,5 +6,5 @@ Um jogo simples em Python onde o usuário tenta adivinhar um número aleatório 
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/guess-the-number-game.git
+git clone https://github.com/The-Darkar/guess-the-number-game.git
 cd guess-the-number-game
